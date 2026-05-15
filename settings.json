@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AMBATAKUM.aternos.me",
-    "port": 16226,
+    "ip": "ambatakum.seedloaf.gg",
+    "port": 25575,
     "version": "",
     "try-creative": false
   },
